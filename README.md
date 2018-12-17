@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Learning how to code to help me with data analysis
